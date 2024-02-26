@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for rpk.
-GH_REPO="https://github.com/neilg/rpk"
+GH_REPO="https://github.com/redpanda-data/redpanda"
 TOOL_NAME="rpk"
 TOOL_TEST="rpk --version"
 
